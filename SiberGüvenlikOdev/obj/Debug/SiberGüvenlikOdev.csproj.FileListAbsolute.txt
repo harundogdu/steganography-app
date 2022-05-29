@@ -1,0 +1,13 @@
+C:\Users\Harun\Desktop\SiberGüvenlikOdev\SiberGüvenlikOdev\bin\Debug\SiberGüvenlikOdev.exe.config
+C:\Users\Harun\Desktop\SiberGüvenlikOdev\SiberGüvenlikOdev\bin\Debug\SiberGüvenlikOdev.exe
+C:\Users\Harun\Desktop\SiberGüvenlikOdev\SiberGüvenlikOdev\bin\Debug\SiberGüvenlikOdev.pdb
+C:\Users\Harun\Desktop\SiberGüvenlikOdev\SiberGüvenlikOdev\obj\Debug\SiberGüvenlikOdev.csproj.AssemblyReference.cache
+C:\Users\Harun\Desktop\SiberGüvenlikOdev\SiberGüvenlikOdev\obj\Debug\SiberGüvenlikOdev.csproj.SuggestedBindingRedirects.cache
+C:\Users\Harun\Desktop\SiberGüvenlikOdev\SiberGüvenlikOdev\obj\Debug\SiberGüvenlikOdev.DosyaAlForm.resources
+C:\Users\Harun\Desktop\SiberGüvenlikOdev\SiberGüvenlikOdev\obj\Debug\SiberGüvenlikOdev.DosyaGonderForm.resources
+C:\Users\Harun\Desktop\SiberGüvenlikOdev\SiberGüvenlikOdev\obj\Debug\SiberGüvenlikOdev.Form1.resources
+C:\Users\Harun\Desktop\SiberGüvenlikOdev\SiberGüvenlikOdev\obj\Debug\SiberGüvenlikOdev.Properties.Resources.resources
+C:\Users\Harun\Desktop\SiberGüvenlikOdev\SiberGüvenlikOdev\obj\Debug\SiberGüvenlikOdev.csproj.GenerateResource.cache
+C:\Users\Harun\Desktop\SiberGüvenlikOdev\SiberGüvenlikOdev\obj\Debug\SiberGüvenlikOdev.csproj.CoreCompileInputs.cache
+C:\Users\Harun\Desktop\SiberGüvenlikOdev\SiberGüvenlikOdev\obj\Debug\SiberGüvenlikOdev.exe
+C:\Users\Harun\Desktop\SiberGüvenlikOdev\SiberGüvenlikOdev\obj\Debug\SiberGüvenlikOdev.pdb
